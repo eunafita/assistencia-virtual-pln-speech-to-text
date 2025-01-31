@@ -1,0 +1,5 @@
+speechrecognition
+pyttsx3
+google-api-python-client
+requests
+geocoder
