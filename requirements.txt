@@ -5,3 +5,4 @@ requests
 geocoder
 pyaudio
 wikipedia
+python-dotenv
