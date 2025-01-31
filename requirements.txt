@@ -6,3 +6,6 @@ geocoder
 pyaudio
 wikipedia
 python-dotenv
+pygame
+gTTS
+langdetect
