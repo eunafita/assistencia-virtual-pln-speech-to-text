@@ -8,7 +8,7 @@ import requests  # Para fazer requisições HTTP
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # Sua chave da API do Google
-google_api_key = "AIzaSyB42ScQJRQU3F2vxwO-y7tM6UDXWbKL87w"
+google_api_key = "your_API_key"
 
 # Função para ouvir e reconhecer o áudio
 def ouvir_audio():
